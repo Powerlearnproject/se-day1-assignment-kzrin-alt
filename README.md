@@ -82,6 +82,6 @@ this is a process that involve crafting clear, concise and structured inputs to 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-vague prompt: "tell me about thoughtcrime and doublespeak"
-improved prompt: "decribe and outline the differences between doublethink and thoughcrime, expound on similar terminologies used in george orwell's 1984."
-why it is more effective: the prompt has more context and requests for organized and structured output with more relevant information
+- vague prompt: "tell me about thoughtcrime and doublespeak"
+- improved prompt: "decribe and outline the differences between doublethink and thoughcrime, expound on similar terminologies used in george orwell's 1984."
+- why it is more effective: the prompt has more context and requests for organized and structured output with more relevant information
